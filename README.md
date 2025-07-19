@@ -67,10 +67,10 @@ cd google-stock-prediction-rnn
 google-stock-prediction-rnn/
 │
 ├── rnn.ipynb                           # Main Jupyter notebook
+├── rnn_stock_predictor.py              # Python script version
 ├── data/
 │   └── Google_Stock_Price_Train.csv        # Training dataset (2012-2016)
 │   └── Google_Stock_Price_Test.csv         # Testing dataset (Jan 2017)
-├── rnn_stock_predictor.py              # Python script version
 ├── models/
 │   └── google_stock_rnn_model.h5       # Trained model
 ├── visualizations/
